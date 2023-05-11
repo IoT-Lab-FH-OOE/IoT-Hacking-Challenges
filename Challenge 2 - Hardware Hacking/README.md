@@ -45,6 +45,8 @@ Der kleine weiße TP-Link WR841N WLAN-Router simuliert das Internet, das bedeute
 
 Der Netgear Router muss zum Lösen der Challenge aufgemacht/aufgeschraubt werden. Die Schrauben sind bereits gelöst und entfernt, sodass sich die Obere Abdeckung des Routers einfach abnehmen lässt. Bitte nach Beenden der Challenge diese Abdeckung einfach nur wieder auf den Router setzen und nicht anschrauben.
 
+:warning:Bevor du den USB-TTL Adpater mit dem Router oder dem Laptop verbindest, stelle sicher, dass du die Pins richtig analysiert hast, indem du dir Hinweis 3 ansiehst, um deinen Laptop und den Router vor möglichen Kurzschluss-Schäden zu bewahren.
+
 ### Aufbauen der Challenge
 
 1. Verbinde den WAN-Port des Netgear R7000 WLAN-Router mit einem Kabel an einen LAN-Port des "Internet" (WR841N Router). So glaubt dieser, dass er mit dem echten Internet verbunden ist, da er hier eine IP-Adresse bekommt. Die IP-Adresse wird vom "Internet" über DHCP vergeben, das bedeutet, dass der R7000 nicht zwangsweise immer die gleiche IP-Adresse bekommt.
