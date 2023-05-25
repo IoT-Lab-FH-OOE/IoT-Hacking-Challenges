@@ -39,9 +39,7 @@ Auf dem beigelegten USB-Stick findest du auch den Firmware IDIoT, ein im SESAM e
 
 ### Aufbauen der Challenge
 
-1. Flashe das Firmware-Image (Challenge3_Router.img) auf die SD-Karte des Raspberry Pi. Du kannst zum Flashen der SD Karte Tools deiner Wahl verwenden, die empfohlene Vorgehensweise für Windows ist folgende:
-   * Verwende das Tool [SD Card Formatter](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/), um die SD Karte zu bereinigen.
-   * Verwende anschließend Balena [Etcher](https://www.balena.io/etcher#download-etcher), um das Image auf die SD Karte zu flashen.
+1. Flashe das Firmware-Image (Challenge3_Router.img) auf die SD-Karte des Raspberry Pi. Du kannst zum Flashen der SD Karte Tools deiner Wahl verwenden, empfohlen wird das Tool [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
 2. Lege die SD-Karte in den Raspberry Pi und verbinde ihn mit dem Stromnetz.
 3. Der Raspberry Pi startet automatisch und du kannst mit der Challenge beginnen.
 
