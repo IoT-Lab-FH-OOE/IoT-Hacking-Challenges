@@ -19,7 +19,7 @@ Nachdem du die Zugangsdaten herausgefunden hast, willst du über die Web-Oberfl�
 ## Ziele
 
 **Hauptziel:** Manipuliere die Router-Firmware so, dass man das Administrator-Passwort über die Web-Oberfläche nicht mehr ändern kann.<br>
-Konkret: Du hast die Challenge gelöst, wenn du dich über die Web-Oberfläche mit dem Administrator Passwort einloggst, auf Passwort ändern gehst, ein neues Passwort festlegst (inkl. Bestätigungsnachricht) und du dich dennoch wieder mit dem alten Passwort anmelden kannst.
+Konkret: Du hast die Challenge gelöst, wenn du dich über die Web-Oberfläche mit dem Administrator Passwort einloggst, auf Passwort ändern gehst, ein neues Passwort festlegst (inkl. Bestätigungsnachricht) und du dich dennoch weiterhin mit dem alten Passwort anmelden kannst.
 
 **Unterziele:**
 
