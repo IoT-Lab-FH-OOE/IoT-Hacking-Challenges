@@ -11,6 +11,8 @@ In dieser Challenge geht es darum die Kommunikation zwischen einer Drohne und de
 - 2x USB WLAN-Adapter (AWUS1900)
 - Computer mit USB-Anschluss (Entwicklungsumgebung Kali empfohlen)
 
+Der Challenge liegt ein USB-Stick mit einer Live-Verison von Kali 2023.1 bei.
+
 ## Die Ausgangslage
 
 Du bist Besitzer eines Grundstückes und dir ist Privatsphäre sehr wichtig. Einer deiner Nachbarn besitzt eine Reely Drohne und du vertraust nicht darauf, dass er sich von deinem Grundstück fernhält. Aus diesem Grund willst du die Drohne hacken, um sie zum Landen zu zwingen, sobald sie die Grundstücksgrenze überfliegt. Du weißt, dass die Fernsteuerung mittels WLAN zur Drohne kommuniziert und dieses WLAN ungeschützt ist. Mit Hilfe eines WLAN-Adapters willst du nun die Kommunikation abfangen, um sie zu analysieren und anschließend zu modifizieren, um so die Drohne zu landen.
