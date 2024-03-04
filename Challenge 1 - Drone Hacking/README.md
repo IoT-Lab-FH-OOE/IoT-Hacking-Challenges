@@ -52,7 +52,7 @@ Du kannst jederzeit zwischen den Modi wechseln, in dem du den Schalter in die ge
 
 ### Aufbauen der Challenge
 
-1. Überprüfe, ob an den Raspberry Pi der Schalter wie in folgendem Bil angeschlossen ist.  
+1. Überprüfe, ob an den Raspberry Pi der Schalter wie in folgendem Bild angeschlossen ist.  
     <img src="Angabe-resources/Aufbau_1.jpg" width="300">
 2. Stelle den Modus-Schalter auf die Stellung Modus 1.  
     <img src="Angabe-resources/Aufbau_2.jpg" width="300">
@@ -136,10 +136,15 @@ Wenn dir die Aufzeichnung nicht selbst gelungen ist und du das bereitgestellte C
 <details>
 <summary>Hinweis 4 anzeigen…</summary>
 <br>
-Hier ist der MD5-Hash der Payload(Hex-Stream) des Pakets mit dem Landekommando: 
+Hier ist der MD5-Hash der Payload (als Hex-Stream) des Pakets mit dem Startkommando:
+```
+3349670e2ae0df2e93f8cb5f116601e8
+```
+
+Hier ist der MD5-Hash der Payload (als Hex-Stream) des Pakets mit dem Landekommando: 
     
 ```
-f92c04b4a1050fa4856296c78f8a1a97
+160005fb52984b0aa9b6b88c0ec5a393
 ```   
 </details>
 
